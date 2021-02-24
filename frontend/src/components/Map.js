@@ -26,7 +26,7 @@ export const Map = () => {
         longitude: -122.3321,
         width: "100vw",
         height: "100vh",
-        zoom: 14,
+        zoom: 12,
     });
 
     const [selectedCrime, setSelectedCrime] = useState("0"); 
