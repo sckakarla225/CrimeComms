@@ -1,3 +1,3 @@
 # CrimeComms
 ## Real-Time Neighborhood Crime Data & Alert App </br>
-Who Done It Hacks? 12-11 - 12-13 Submission </br>
+Won Young Investigator's Hack @ MLH Who Done It Hacks 2020 </br>
